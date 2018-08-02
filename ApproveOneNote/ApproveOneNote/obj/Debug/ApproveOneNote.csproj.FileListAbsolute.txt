@@ -1,0 +1,4 @@
+C:\Users\ERP_USER\documents\visual studio 2010\Projects\ApproveOneNote\ApproveOneNote\bin\ApproveOneNote.dll
+C:\Users\ERP_USER\documents\visual studio 2010\Projects\ApproveOneNote\ApproveOneNote\bin\ApproveOneNote.pdb
+C:\Users\ERP_USER\documents\visual studio 2010\Projects\ApproveOneNote\ApproveOneNote\obj\Debug\ApproveOneNote.dll
+C:\Users\ERP_USER\documents\visual studio 2010\Projects\ApproveOneNote\ApproveOneNote\obj\Debug\ApproveOneNote.pdb
